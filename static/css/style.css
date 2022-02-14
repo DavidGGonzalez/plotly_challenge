@@ -1,0 +1,5 @@
+/* Adding image to the jumbotron element, text color set to white */
+.jumbotron {
+    background-image: url("../images/meetprocessing.png");
+    background-size: 100% 100%;
+  }
