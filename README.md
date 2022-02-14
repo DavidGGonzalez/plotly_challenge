@@ -5,7 +5,7 @@ Module 12 Challenge, Creating a dashboard using plotly.js, HTML, CSS, JavaScript
 Create a dashboard to allow Roza to help her users to visualize the bacterial data. Specifically, her volunteers should be able to identify the <b>Top 10</b> bacterial species in their belly buttons. That way, if Improbable Beef identifies a species as a candidate to manufacture synthetic beef, Roza's volunteers will be able to identify whether that species is found in their navel.
 
 ## GitHub Page
-You can visit final page by clicking here: [Belly Button Biodiversity Dashboar Site](https://davidggonzalez.github.io/plotly_challenge/)
+You can visit final page by clicking here: [Belly Button Biodiversity Dashboard Site](https://davidggonzalez.github.io/plotly_challenge/)
 
 ![Final Web page](/static/images/sitepic.png)
 
